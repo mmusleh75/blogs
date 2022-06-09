@@ -1,4 +1,6 @@
-# Introduction
+# Data As A Product
+
+## Introduction
 Data has now overtaken oil as the world’s [most valuable resource](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data), according to The Economist. And like oil, data needs to be processed to get the most out of it. Data products are what enable users to extract value from this resource. 
 
 For the past few decades, most companies have kept data in an organizational silo; recently like within the past 10-20 years, there has been traction on that side of the business where companies have been working and utilizing better tooling, more diverse roles, and a clearer understanding of data’s full potential, many businesses have come to view the entire ecosystem as a fully formed element of the company tech stack.  
@@ -7,7 +9,7 @@ It's time to get value out of that, it's time to treat data as first-class citiz
 
 The most forward-thinking teams are adopting a new paradigm: treating data like a product. This is a hot topic in the data community right now; [Data as a Product](https://martinfowler.com/articles/data-mesh-principles.html#DataAsAProduct) (DaaP) is one of the four Data Mesh principles.
 
-# Some thoughts from industry leaders about DaaP
+## Some thoughts from industry leaders about DaaP
 
 "There are two schools of thoughts; one focuses on external or internal product or service that generates data, meaning that the data—including the entire pipeline—is part of the product. So it must be subject to the same level of rigor as the application code such as SLA, testing, observability … etc. the second one focuses on the output of any codebase that’s serving a customer as a product."
 
@@ -30,7 +32,7 @@ The most forward-thinking teams are adopting a new paradigm: treating data like 
 2. Data-enhanced products: such as converting a car into a self-driving vehicle or smart clothing that can respond to touch or track data from its user
 3. Data as insights: refers to products that analyze the data “behind the scenes” in order to improve the performance or another aspect of a product. This could be something like Google Analytics
 
-# Ways to Apply DaaP approach
+## Ways to Apply DaaP approach
 1. Be intentional when adopting data as a product as it requires a shift in mindset that leads to meaningful outcomes
 2. Gain stakeholder alignment early and often especially if your customers are also your stakeholders
 3. Apply a product management mindset to how you build, monitor, governance, access control and measure product quality
