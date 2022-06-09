@@ -30,7 +30,7 @@ The most forward-thinking teams are adopting a new paradigm: treating data like 
 2. Data-enhanced products: such as converting a car into a self-driving vehicle or smart clothing that can respond to touch or track data from its user
 3. Data as insights: refers to products that analyze the data “behind the scenes” in order to improve the performance or another aspect of a product. This could be something like Google Analytics
 
-# Adopting DaaP approach
+# Ways to Apply DaaP approach
 1. Be intentional when adopting data as a product as it requires a shift in mindset that leads to meaningful outcomes
 2. Gain stakeholder alignment early and often especially if your customers are also your stakeholders
 3. Apply a product management mindset to how you build, monitor, governance, access control and measure product quality
